@@ -1,4 +1,4 @@
-# eco_saarthi
+# Eco_Saarthi
 
 A new Flutter project.
 
